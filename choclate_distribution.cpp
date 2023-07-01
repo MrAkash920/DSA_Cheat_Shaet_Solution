@@ -1,3 +1,4 @@
+//https://www.geeksforgeeks.org/chocolate-distribution-problem/
 #include <iostream>
 #include <vector>
 #include <climits>
